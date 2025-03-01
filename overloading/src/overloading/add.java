@@ -9,6 +9,9 @@ class adder{
 		// TODO Auto-generated method stub
 		System.out.println(add.sub(12,9));
 		System.out.println(add.sub(13,14,15));
+	        System.out.println("hello");
+
+		
 	}
 
 	}
